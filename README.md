@@ -88,7 +88,7 @@ Coming Soon
 
 ---
 
-## 6. 🗄️ Skema Database
+## 6. Skema Database
 
 Coming Soon
 
